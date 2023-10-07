@@ -43,7 +43,7 @@ pip install -r requirements.txt
 5. Run the bot using the following command:
 
 ```shell
-python Program Files\YOUTUBE_AUTOMATION.py
+python YOUTUBE_AUTOMATION.py
 ```
 
 **Usage:**  
