@@ -13,7 +13,7 @@ Prerequisites:
 Before getting started, ensure you have the following installed:
 
 - Python 3.x 🐍
-- Required dependencies (install them by running `pip install -r requirements.txt`) 📦
+- Required dependencies (install them by running ```pip install -r requirements.txt```) 📦
 
 Getting Started:
 
@@ -22,3 +22,8 @@ Getting Started:
    ```shell
    git clone https://github.com/mit-panchal/YouTube-BOT.git
 ```
+
+Navigate to the project directory:
+
+
+
